@@ -59,5 +59,3 @@ print(tm.get_info())
 print(tm.manage_project())      
 print(tm.perform_maintenance()) 
 print(tm.get_team_info())
-
-print(TechManager.mro())
